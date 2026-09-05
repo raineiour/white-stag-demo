@@ -1,0 +1,3 @@
+# A private agency tool behind a login, not a public website.
+User-agent: *
+Disallow: /
